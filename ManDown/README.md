@@ -16,10 +16,6 @@ The following actions are available:
 ManDown allows performing a remote wipe of the phone. In order for this to work, it needs to be enabled in the preferences and a wipe password needs to be set. 
 The wipe can be performed from any phone on the same server that has the ManDown plugin installed.
 
-## Download
-
-https://github.com/JTBDefense/ManDown/releases
-
 
 
 
