@@ -16,10 +16,6 @@ The following actions are available:
 ManDown allows performing a remote wipe of the phone. In order for this to work, it needs to be enabled in the preferences and a wipe password needs to be set. 
 The wipe can be performed from any phone on the same server that has the ManDown plugin installed.
 
-## Download
-
-### ATAK 4.10 / 5.0
-https://github.com/JTBDefense/ATAKPlugins/blob/main/ManDown/ATAK-Plugin-ManDown-0.9-4fc8ecf8-4.10.0-civ-release.apk
 
 
 
