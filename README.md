@@ -5,8 +5,8 @@ Collection of free ATAK plugins create by JTB Defense
 
 ### Description 
 
-ManDown is an ATAK plugin that allows monitoring device movememnt using built-in sensors and triggering actions in case of inactivity.
-Additionaly, ManDown allows for a remote device wipe on EUDs that have the plugin installed, remote wipe enabled and wipe password set.
+ManDown is an ATAK plugin that allows monitoring device movement using built-in sensors and triggering actions in case of inactivity.
+Additionally, ManDown allows for a remote device wipe on EUDs that have the plugin installed, remote wipe enabled and wipe password set.
 
 ---
 
