@@ -15,3 +15,11 @@ Additionaly, ManDown allows for a remote device wipe on EUDs that have the plugi
 ### Description
 
 Dark Mode plugin provides an easy way for ATAK to be used at night. It allows configurable dimming of ATAK and the phone screen on touch of a button.
+
+---
+
+## SARToolkit
+
+### Description
+
+SAR Toolkit allows you to create alerts from any marker on the map, add custom sized grid. 
