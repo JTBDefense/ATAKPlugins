@@ -1,5 +1,5 @@
 # ATAKPlugins
-Collection of free ATAK plugins create by JTB Defense
+Collection of free ATAK plugins created by JTB Defense
 
 ## ManDown
 
