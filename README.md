@@ -25,3 +25,12 @@ Dark Mode plugin provides an easy way for ATAK to be used at night. It allows co
 SAR Toolkit includes the following features:
 - creating a grid
 - creating an alert from an existing marker
+
+---
+
+## DSArchive
+
+### Description
+
+This TAK server plugin automatically adds CoTs to Data Sync feeds. It doesn't require the client to have the Data Sync plugin.
+
