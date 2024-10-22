@@ -1,5 +1,7 @@
 # DSArchive
 
+![Alt text](img/screenshot.jpg)
+
 ## Description
 
 This TAK server plugin automatically adds CoTs to Data Sync feeds.
