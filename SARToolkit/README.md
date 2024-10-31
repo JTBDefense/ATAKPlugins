@@ -1,16 +1,10 @@
-# SAR Toolkit
+# SARToolkit
 
-![Alt text](img/screenshot.jpg)
+## Description
+SARToolkit is an ATAK plugin that adds various features / configuration options (more or less related or useful in Search and Rescue operations).
 
-# Description
-SAR Toolkit is an ATAK plugin that contains a number of small features requested by our SAR friends
-
-## Details
-
-SAR Toolkit includes the following features:
-- creating a grid made of individual objects
-- creating an alert from an existing marker
-
-
-
-
+## Features
+- Ability to create a grid made of individual objects
+- Ability to create an alert from an existing marker
+- Ability to automatically enable tracks for all team members
+- Ability to set user custom comment to the self marker
