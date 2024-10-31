@@ -28,6 +28,8 @@ Dark Mode plugin provides an easy way for ATAK to be used at night. It allows co
 SAR Toolkit includes the following features:
 - creating a grid
 - creating an alert from an existing marker
+- enabling/disabling tracing of all and newly added markers
+- add item summary comment
 
 ---
 
