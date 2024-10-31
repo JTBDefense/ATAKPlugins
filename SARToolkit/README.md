@@ -1,5 +1,7 @@
 # SARToolkit
 
+![Alt text](img/screenshot.jpg)
+
 ## Description
 SARToolkit is an ATAK plugin that adds various features / configuration options (more or less related or useful in Search and Rescue operations).
 
