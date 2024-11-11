@@ -30,6 +30,7 @@ SAR Toolkit includes the following features:
 - Ability to create an alert from an existing marker
 - Ability to automatically enable tracks for all team members
 - Ability to set user custom comment to the self marker
+- Ability to automatically add tags with current date to new items
 
 
 ---
