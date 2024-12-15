@@ -31,6 +31,7 @@ SAR Toolkit includes the following features:
 - Ability to automatically enable tracks for all team members
 - Ability to set user custom comment to the self marker
 - Ability to automatically add tags with current date to new items
+- Lasso extension to enable tracking on multiple objects
 
 
 ---
@@ -40,4 +41,12 @@ SAR Toolkit includes the following features:
 ### Description
 
 This TAK server plugin automatically adds CoTs to Data Sync feeds. It doesn't require the client to have the Data Sync plugin.
+
+---
+
+## TAK-RPi
+
+### Description
+
+This folder contains a guide on improving TAK server performance on Raspberry Pi.
 
