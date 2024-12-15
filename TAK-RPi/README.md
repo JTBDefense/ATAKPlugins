@@ -7,7 +7,7 @@ This guide shows steps to improve TAK server performance, specifically for Raspb
     systemctl start takserver
 
 Result:
-> Ports 8446 and 8089 on 192.168.0.113 became available 
+> Ports 8446 and 8089 became available 
 > after  **90** seconds.
 
 ## Disable PluginService
@@ -16,7 +16,7 @@ Start the TAK server without plugin support
 
     systemctl start takserver-noplugins
 Result:
-> Ports 8446 and 8089 on 192.168.0.113 became available
+> Ports 8446 and 8089 became available
 > after  **75** seconds.
 
 
@@ -101,7 +101,7 @@ Result:
       -jar takserver.war $@
 
 Result:
-> Ports 8446 and 8089 on 192.168.0.113 became available 
+> Ports 8446 and 8089 became available 
 > after **70** seconds.
 
 
