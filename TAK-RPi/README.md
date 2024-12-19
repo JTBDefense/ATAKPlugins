@@ -105,19 +105,4 @@ Result:
 > after **70** seconds.
 
 
-## JVM tuning - heap size optimization
-
-Add to the bottom of the *setenv.sh* file:
-
-    export API_MAX_HEAP=2048
-    export MESSAGING_MAX_HEAP=2048
-    export PLUGIN_MANAGER_MAX_HEAP=512
-    export RETENTION_MAX_HEAP=512
-    export CONFIG_MAX_HEAP=512
-
-
-## System performance
-
-    echo performance | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor
-
 
