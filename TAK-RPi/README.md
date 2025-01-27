@@ -106,3 +106,8 @@ Result:
 
 
 
+## DB performance
+
+
+CREATE INDEX mission_change_perf_idx
+ON mission_change (mission_id, change_type, uid, id DESC);
