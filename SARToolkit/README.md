@@ -14,3 +14,4 @@ SARToolkit is an ATAK plugin that adds various features / configuration options 
 - Ability to set user custom comment to the self marker
 - Ability to automatically add tags with current date to new items
 - Lasso extension to enable tracking on multiple objects
+- Ability to toggle labels n KML poly lines
