@@ -50,3 +50,11 @@ This TAK server plugin automatically adds CoTs to Data Sync feeds. It doesn't re
 
 This folder contains a guide on improving TAK server performance on Raspberry Pi.
 
+
+---
+
+## Validator
+
+### Description
+
+The Validator plugin verifies naming standards for various CoT types using preconfigured regex rules.
