@@ -1,0 +1,14 @@
+<?xml version='1.0' standalone='yes'?>
+	<preferences>
+	<preference version="1" name="com.atakmap.app_preferences">
+<entry key="com.jtbdefense.atak.NamingValidator.preferences.REGEX_DATA" class="class java.lang.String">a-u-g=(?i)lkp\d{2}-\d{8}
+a-f-g=(?i)osc\d{2}-\d{8}
+a-f-g=(?i)kdp\d{2}-\d{8}
+u-d-*=(?i)op\d{2}[a-z]{1,2}\d{2}
+u-d-*=(?i)op\d{2}[a-z]{1,2}\d{2}-[a-z]
+u-d-*=(?i)op\d{2}-\d{8}
+u-d-*=(?i)op\d{2}[a-z]{2}\d{2}
+u-d-*=(?i)op\d{2}[a-z]{1,2}-[a-z0-9]{5,6}</entry>
+	</preference>
+</preferences>
+
