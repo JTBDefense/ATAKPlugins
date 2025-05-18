@@ -31,3 +31,5 @@ u-d-*=(?i)op\d{2}[a-z]{1,2}-[a-z0-9]{5,6}
 ## Preferences key for regex data 
 `com.jtbdefense.atak.NamingValidator.preferences.REGEX_DATA`
 
+Sample preferences file: [validator-example.pref](validator-example.pref)
+
